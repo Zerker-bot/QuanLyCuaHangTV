@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trang Chủ - Hướng Dẫn</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f2f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      min-height: 100vh;
+      text-align: center;
+    }
+
+    img {
+      max-width: 600px;
+      width: 100%;
+      margin-top: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    .description {
+      max-width: 800px;
+      background: white;
+      padding: 2rem 3rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: left;
+      margin-top: 2rem;
+    }
+
+    h1 {
+      color: #4a90e2;
+      text-align: center;
+    }
+
+    .back-button {
+      margin-top: 2rem;
+      text-align: center;
+    }
+
+    .back-button button {
+      background-color: #4a90e2;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+
+    .back-button button:hover {
+      background-color: #357abd;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="description">
+    <h1>Hướng Dẫn Trang Chủ</h1>
+    <img src="images/trangchu.png" alt="Ảnh giao diện trang chủ">
+
+    <p><strong>Trang chủ</strong> là nơi hiển thị các thông tin tổng quan quan trọng của hệ thống:</p>
+
+    <ul>
+      <li><strong>Tổng doanh thu:</strong> Hiển thị tổng số tiền thu được từ việc bán hàng.</li>
+      <li><strong>Số khách hàng:</strong> Cho biết tổng số khách hàng đã sử dụng dịch vụ.</li>
+      <li><strong>Sản phẩm đã bán:</strong> Số lượng sản phẩm đã được bán ra.</li>
+      <li><strong>Biểu đồ doanh thu 6 tháng gần nhất:</strong> Giúp theo dõi sự biến động doanh thu theo thời gian.</li>
+    </ul>
+
+    <p>Thông tin được cập nhật theo thời gian thực hoặc khi bạn đăng nhập vào hệ thống.</p>
+
+    <div class="back-button">
+      <button onclick="backToLogin()">&#8592; Quay lại Đăng nhập</button>
+    </div>
+  </div>
+
+  <script>
+    function backToLogin() {
+      if (window.top === window.self) {
+        window.location.href = 'help.html';
+      } else {
+        window.top.location.href = 'help.html';
+      }
+    }
+  </script>
+</body>
+</html>

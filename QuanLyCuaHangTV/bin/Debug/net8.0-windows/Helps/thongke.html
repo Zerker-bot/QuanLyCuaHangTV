@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Đăng Nhập - Hướng Dẫn</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f2f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      min-height: 100vh;
+      text-align: center;
+    }
+
+    img {
+      max-width: 600px;
+      width: 100%;
+      margin-top: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+    .description {
+      max-width: 800px;
+      background: white;
+      padding: 2rem 3rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: left;
+      margin-top: 2rem;
+    }
+
+    h1 {
+      color: #4a90e2;
+      text-align: center;
+    }
+
+    .back-button {
+      margin-top: 2rem;
+      text-align: center;
+    }
+
+    .back-button button {
+      background-color: #4a90e2;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+
+    .back-button button:hover {
+      background-color: #357abd;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="description">
+    <h1>Hướng Dẫn Thống Kê Sản Phẩm</h1>
+    <img src="images/h10.png" >
+    <p><strong>Lọc theo Hãng sản xuất và Loại sản phẩm</strong></p>
+    <p><strong> Bước 1:</strong> Chọn "Hãng sản xuất" và "Loại sản phẩm" muốn lọc </p>
+    <p><strong> Bước 2:</strong> Nhấn "Lọc" để xem kết quả</p>
+    <img src="images/h12.png">
+    <img src ="images/h13.png">
+    <p><strong> Kết quả sau khi lọc:</strong></p>
+    <img src="images/h14.png">
+    <div class="back-button">
+      <button onclick="backToHome()">&#8592; Quay lại Trang chủ</button>
+    </div>
+  </div>
+  <script>
+      function backToHome() {
+        if (window.top === window.self) {
+          window.location.href = 'help.html';
+        } else {
+          window.top.location.href = 'help.html';
+        }
+      }
+    </script>
+</body>
+</html>

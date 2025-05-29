@@ -1,0 +1,705 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\customcontrols\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\customcontrols\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\data\\hoadon_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\data\\hoadon_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmloaisanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmloaisanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmhoadon_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmhoadon_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmhoadon_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmhoadon_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmhangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmhangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\data\\qlchtvdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\data\\qlchtvdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\quanlycuahangtv.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\quanlycuahangtv.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmhangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmhangsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\reports\\rptthongkesanpham.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\rptthongkesanpham.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\reports\\frmthongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\frmthongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\reports\\frmthongkesanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\frmthongkesanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\reports\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\reports\\frmthongkesanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\frmthongkesanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\reports\\rptinhoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\rptinhoadon.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\reports\\qlchtvdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\qlchtvdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\quanlycuahangtv\\customcontrols\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\customcontrols\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\reports\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\frminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\forms\\frmhoadon_chitiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\forms\\frmhoadon_chitiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\reports\\rptthongkedoanhthu.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\reports\\rptthongkedoanhthu.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|d:\\hoctap\\hk2_nam2_2024-2025\\laptrinhquanly\\do an\\quanlycuahangtv\\quanlycuahangtv\\migrations\\20250421132258_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5399D72A-4291-4468-9C8B-942AA8E0A6F4}|QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj|solutionrelative:quanlycuahangtv\\migrations\\20250421132258_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLoaiSanPham.Designer.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.Designer.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.Designer.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.Designer.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAkwAwBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:19:15.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmDangNhap.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDangNhap.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmDangNhap.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:57:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradientPanel.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\CustomControls\\GradientPanel.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\CustomControls\\GradientPanel.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\CustomControls\\GradientPanel.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\CustomControls\\GradientPanel.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:32:14.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmDangNhap.Designer.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDangNhap.Designer.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmDangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:19:55.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDon_ChiTiet.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Data\\HoaDon_ChiTiet.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Data\\HoaDon_ChiTiet.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Data\\HoaDon_ChiTiet.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Data\\HoaDon_ChiTiet.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:43:35.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLoaiSanPham.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:53:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Program.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Program.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:25:41.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmMain.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmMain.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmMain.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:45:45.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDashBoard.Designer.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDashBoard.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmDashBoard.Designer.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDashBoard.Designer.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmDashBoard.Designer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv40AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:25:51.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\App.config",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\App.config",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\App.config",
+              "RelativeToolTip": "QuanLyCuaHangTV\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-21T13:22:21.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmMain.Designer.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmMain.Designer.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmMain.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAH4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:59:41.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmDashboard.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDashboard.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmDashboard.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAhwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:24:10.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmHoaDon.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmHoaDon.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAjwL0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:35:35.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmHoaDon_ChiTiet.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAIA0wBUBAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:22:08.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QLCHTVDbContext.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Data\\QLCHTVDbContext.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Data\\QLCHTVDbContext.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Data\\QLCHTVDbContext.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Data\\QLCHTVDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:47:37.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Data\\KhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Data\\KhachHang.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Data\\KhachHang.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Data\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:57:21.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Data\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Data\\HoaDon.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Data\\HoaDon.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Data\\HoaDon.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:28:04.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuanLyCuaHangTV",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj",
+              "RelativeToolTip": "QuanLyCuaHangTV\\QuanLyCuaHangTV.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T13:08:32.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmHangSanXuat.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHangSanXuat.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmHangSanXuat.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHangSanXuat.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmHangSanXuat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:02:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "rptThongKeSanPham.rdlc [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\rptThongKeSanPham.rdlc",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\rptThongKeSanPham.rdlc",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\rptThongKeSanPham.rdlc [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\rptThongKeSanPham.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-19T01:49:20.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmThongKeSanPham.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmThongKeSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\frmThongKeSanPham.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmThongKeSanPham.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\frmThongKeSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:58:24.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "rptInHoaDon.rdlc [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\rptInHoaDon.rdlc",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\rptInHoaDon.rdlc",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\rptInHoaDon.rdlc [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\rptInHoaDon.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-04-21T11:44:40.458Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QLCHTVDataSet.xsd",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\QLCHTVDataSet.xsd",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\QLCHTVDataSet.xsd",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\QLCHTVDataSet.xsd",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\QLCHTVDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-04-25T01:34:54.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250421132258_KhoiTaoCSDL.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Migrations\\20250421132258_KhoiTaoCSDL.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Migrations\\20250421132258_KhoiTaoCSDL.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Migrations\\20250421132258_KhoiTaoCSDL.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Migrations\\20250421132258_KhoiTaoCSDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:22:58.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmInHoaDon.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmInHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\frmInHoaDon.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmInHoaDon.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\frmInHoaDon.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:17:20.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmHoaDon_ChiTiet.Designer.cs",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.Designer.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.Designer.cs",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:32:31.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOYSAAAAAAAAAAD4v/gSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-21T12:23:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "rptThongKeDoanhThu.rdlc [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\rptThongKeDoanhThu.rdlc",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\rptThongKeDoanhThu.rdlc",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\rptThongKeDoanhThu.rdlc [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\rptThongKeDoanhThu.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-04-21T12:02:34.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmDangNhap.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:57:20.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLoaiSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmLoaiSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:34:49.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmDashboard.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:30:44.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmMain.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmMain.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:38:14.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmHoaDon.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:32:37.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmHoaDon_ChiTiet.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmHoaDon_ChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:22:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Form1.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:33:15.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmHangSanXuat.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHangSanXuat.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmHangSanXuat.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmHangSanXuat.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmHangSanXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:02:45.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmThongKeDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmThongKeDoanhThu.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\frmThongKeDoanhThu.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmThongKeDoanhThu.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\frmThongKeDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:40:01.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmInHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmInHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\frmInHoaDon.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmInHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\frmInHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:40:04.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmThongKeSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmThongKeSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Reports\\frmThongKeSanPham.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Reports\\frmThongKeSanPham.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Reports\\frmThongKeSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:00:58.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmNhanVien.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:00:53.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\Forms\\frmSanPham.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\Forms\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\Forms\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:53:21.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GradientPanel.cs [Design]",
+              "DocumentMoniker": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\CustomControls\\GradientPanel.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangTV\\CustomControls\\GradientPanel.cs",
+              "ToolTip": "D:\\HocTap\\HK2_Nam2_2024-2025\\LapTrinhQuanLy\\Do An\\QuanLyCuaHangTV\\QuanLyCuaHangTV\\CustomControls\\GradientPanel.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangTV\\CustomControls\\GradientPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:32:12.272Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1152,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
